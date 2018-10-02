@@ -6,3 +6,4 @@
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
 \\vmware-host\shared folders\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
