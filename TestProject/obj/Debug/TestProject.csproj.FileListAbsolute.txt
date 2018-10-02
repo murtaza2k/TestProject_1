@@ -10,3 +10,11 @@
 C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\bin\Debug\TestProject.exe.config
 C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.exe
 C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.pdb
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\bin\Debug\TestProject.exe
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\bin\Debug\TestProject.pdb
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.Form2.resources
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.Form3.resources
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
