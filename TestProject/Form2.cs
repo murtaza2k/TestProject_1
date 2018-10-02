@@ -25,5 +25,10 @@ namespace TestProject
             MessageBox.Show("Hello World");
         }
 
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

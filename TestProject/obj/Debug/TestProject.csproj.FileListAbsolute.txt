@@ -18,3 +18,5 @@ C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestPr
 C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.Form3.resources
 C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.Properties.Resources.resources
 C:\Users\murtaza.ali\Documents\GitHub\TestProject_1\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.Form2.resources
+\\vmware-host\shared folders\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.Form3.resources
